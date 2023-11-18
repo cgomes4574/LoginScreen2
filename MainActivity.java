@@ -1,3 +1,5 @@
+package com.example.login_screen;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
